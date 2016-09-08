@@ -9,7 +9,9 @@ Trump.
 
 How is this approach misleading? How might you fix it?
 
-
+This approach definitely misleads us because Jill Stein and Grey Johnson are much more similar when compared to Hillary Clinton and Donald Trump who are very much different from each other.
+Jill Stein and Gary Johnson mutually follow many people so they can be considered similar while Hillary Clinton and Donald Trump follow only one person in common and hence they cant be conidered similar.
+We can use friend_overlap function only with Jill Stein and Gary Johnson and that is the only way to fix the solution.
 
 
 
@@ -24,7 +26,7 @@ who are rivals? Do some web searches to see if you can find out more
 information.
 
 
-
+Magic Johnson is the man whom both Hillary Clinton and Donald Trump follows because he is a supporter of Hillary Clinton and has business interest with Donald Trump.
 
 
 
@@ -41,7 +43,8 @@ Johnson follows over 3K accounts, while Donald Trump follows less than
 
 
 
-
+Gary Johnson is less selective in following people and follows many so is not very much in sync with their tweets whereas Donald Trump follows very selective people and so is very well updated with the news of all the people he follows.
+Following too many people increases the complexty of the analysis making it difficult for any type of analysis.
 
 
 
@@ -55,3 +58,4 @@ https://dev.twitter.com/rest/reference/get/friends/ids, how many requests will
 we have to make? Given how Twitter does rate limiting
 (https://dev.twitter.com/rest/public/rate-limiting), approximately how many
 minutes will it take to collect this data?
+
